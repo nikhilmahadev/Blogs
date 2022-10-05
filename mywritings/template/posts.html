@@ -17,7 +17,7 @@ POST
 
             <p>({{ post.cat.title }})</p>
 
-            <img src="/media/{{post.image}}" class="responsive-img" alt="">
+            <img src="/media/{{post.image}}" class="responsive-img"  style="max-height:450px; width:100%; object-fit:fill;"  alt="">
             <br>
             <p>
                 {{ post.content|safe }}
