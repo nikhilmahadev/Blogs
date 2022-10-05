@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb634f9b-a700-4281-b472-d67243806893" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/mywritings/media/post/go_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mywritings/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/db.sqlite3" afterDir="false" />
     </list>
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664976815543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1st commit">
+      <created>1664977787335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664977787335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
