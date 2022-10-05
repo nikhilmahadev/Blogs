@@ -7,7 +7,7 @@
 ### Step 1:Clone the repository
     https://github.com/nikhilmahadev/Blogs.git
 
-### step 2:Navigate to the clone 
+### step 2:Navigate to the main file 
      cd mywritings 
 ### create VENV  
     pip install virtualenv
