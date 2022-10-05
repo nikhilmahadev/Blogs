@@ -3,7 +3,7 @@
 # Note install python , material ui , 
 ## Run these Commads
 
- These instructions will get you a copy of the project up and running on your local machine for development apurposes.
+ These instructions will get you a copy of the project up and running on your local machine for development  purposes.
 ### Step 1:Clone the repository
     https://github.com/nikhilmahadev/Blogs.git
 
