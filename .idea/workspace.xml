@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb634f9b-a700-4281-b472-d67243806893" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/mywritings/media/category/tech_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywritings/media/post/bestphone_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywritings/media/post/data-science-components2_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywritings/media/post/dv_1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywritings/media/post/spam_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywritings/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywritings/template/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/template/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywritings/template/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/template/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywritings/template/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/template/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywritings/template/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/template/posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywritings/media/post/bestphone_1_JhPFajm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywritings/media/post/dv_1_23GGmAt.webp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664981403939</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1st commit">
+      <created>1664986139641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664986139641</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
