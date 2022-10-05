@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb634f9b-a700-4281-b472-d67243806893" name="Changes" comment="1st commit" />
+    <list default="true" id="bb634f9b-a700-4281-b472-d67243806893" name="Changes" comment="1st commit">
+      <change afterPath="$PROJECT_DIR$/mywritings/media/category/aiml_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywritings/media/category/ds_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywritings/media/post/ai_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mywritings/media/post/ml_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywritings/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywritings/template/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/mywritings/template/footer.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -49,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/NIKHIL/Desktop/Blogs",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -125,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664978509321</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1st commit">
+      <created>1664978889714</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664978889714</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1st commit">
+      <created>1664979253793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664979253793</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
